@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What was Google's (Alphabet) total revenue in 2023?",
+    "expected_doc": "0irybcxs2uch_Google.txt"
+  },
+  {
+    "question": "How much did Google spend on Research and Development (R&D) in 2023?",
+    "expected_doc": "0irybcxs2uch_Google.txt"
+  },
+  {
+    "question": "What are the main risk factors mentioned regarding AI competition?",
+    "expected_doc": "0irybcxs2uch_Google.txt"
+  }
+]
